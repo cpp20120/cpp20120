@@ -4,8 +4,8 @@
 ---
 
 # GitHub Statistics 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cppshizoid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![cppshizoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cppshizoid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpp20120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![cppshizoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpp20120)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
