@@ -27,7 +27,7 @@
 ### Contact Me ☎️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.krivoschecov@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cppshizoid)
-
+[![CV](https://github.com/cpp20120/CV/blob/main/cv.pdf)
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Thanks+for+your+attention!)](https://git.io/typing-svg)
