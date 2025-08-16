@@ -19,7 +19,7 @@
 ---
 
 ## Featured projects:
-- [ThreadPool](https://github.com/cpp20120/ThreadPool) – Work-stealing C++20 task scheduler with DAG dependencies.
+- [DagFlow](https://github.com/cpp20120/DagFlow) – Work-stealing C++20 task scheduler with DAG dependencies.
 - [Cmake Boilerplate](https://github.com/cpp20120/cmake_boilerplate) - Cmake boilerplate for production grade projects
 - [Apartment booking system.](https://github.com/cpp20120/Books) - is an apartment booking system. Using  ASP.NET Core and Clean Architecture + DDD
 ---
